@@ -1,6 +1,6 @@
 # Push-память агента — концептуальная спецификация
 
-> 🇬🇧 **English is the primary version:** see [README.md](README.md). This is the Russian mirror.
+> 🌐 **Languages / Языки:** [English](CONCEPT.en.md) (primary) · **Русский** (this file). Entry point: [README.md](README.md).
 
 > **Назначение.** Описать паттерн ассоциативной push-памяти для программного агента на уровне
 > механик, потоков и принципов — независимо от языка, хранилища и харнеса. По этому документу можно
