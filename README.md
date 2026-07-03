@@ -1,6 +1,14 @@
-# Agent Push-Memory — Conceptual Specification
+# dejavu — Agent Push-Memory Specification
 
-> 🇷🇺 **Русская версия:** see [CONCEPT.ru.md](CONCEPT.ru.md).
+> **An associative push-memory pattern for software agents.** Instead of the agent pulling
+> knowledge from a store when it thinks to, the environment itself injects the relevant fact into
+> context at the moment it is needed — a cue-driven, ambient layer on top of classic pull-RAG.
+
+📄 **Languages:** **[English](CONCEPT.en.md)** (primary, mirrored below) · **[Русский](CONCEPT.ru.md)** (original)
+
+---
+
+# Agent Push-Memory — Conceptual Specification
 
 > **Purpose.** To describe the pattern of associative push-memory for a software agent at the level
 > of mechanics, flows, and principles — independent of language, storage, and harness. From this
